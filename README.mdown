@@ -1,0 +1,6 @@
+# MessyBundle
+Symfony2 bundle for [Messy](http://github.com/jongotlin/Messy)
+
+**License**
+
+MessyBundle is licensed under the MIT License - see the `Resources/meta/LICENSE` file for details.
