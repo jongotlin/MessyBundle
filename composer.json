@@ -1,0 +1,18 @@
+{
+    "name": "jgi/messy-bundle",
+    "type": "symfony-bundle",
+    "require": {
+        "jgi/messy": "*"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Jon Gotlin",
+            "email": "jon@jongotlin.se"
+        }
+    ],
+    "autoload": {
+        "psr-4": {"JGI\\Bundle\\MessyBundle\\": "/"}
+    },
+    "minimum-stability": "dev"
+}
